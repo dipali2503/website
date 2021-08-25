@@ -1,0 +1,219 @@
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        
+        #div1 {
+            height: 800px;
+            background-image: url("Images/$5000/WEB/Hero\ -\ Background.png");
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+        
+        #div2 {
+            height: 500px;
+            background-color: #ffffff;
+        }
+        
+        #div3 {
+            height: 650px;
+            background-color: #fef4ec;
+        }
+        
+        #div4 {
+            height: 500px;
+            background-color: #ffffff;
+        }
+        
+        #div5 {
+            height: 500px;
+            background-color: #fef4ec;
+        }
+        
+        .div6 {
+            height: 350px;
+            background-image: url("Images/$5000/WEB/CTA\ -\ Background.png");
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+        
+        #heading1 {
+            font-size: 60px;
+            color: #f5ad76;
+            margin-top: 30%;
+            font-weight: 800;
+        }
+        
+        #p1 {
+            color: rgb(252, 240, 240);
+            font-family: 'Times New Roman', Times, serif;
+            margin-bottom: 8%;
+            width: 80%;
+        }
+        
+        #h31 {
+            color: white;
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+        
+        .circle {
+            border-radius: 50%;
+            background-color: #f5ad76;
+            color: black;
+            padding: 8px 10px 8px 10px;
+        }
+        
+        .refer {
+            color: white;
+            font-size: 16px;
+            text-align: justify;
+        }
+        
+        .card-text {
+            color: rgb(66, 59, 59);
+            margin-top: 1%;
+        }
+        
+        .kk {
+            color: whitesmoke;
+        }
+        
+        .mm {
+            margin-top: 8%;
+        }
+        
+        .second {
+            font-size: 40px;
+            text-align: center;
+            font-style: bold;
+            font-weight: 600;
+            margin-top: 5%;
+        }
+        
+        .card {
+            height: 250px;
+        }
+        
+        .st1 {
+            background-color: #025844;
+        }
+        
+        .st2 {
+            color: white;
+        }
+        
+        .st3 {
+            color: #025844;
+            font-weight: 400;
+        }
+        
+        .ll {
+            padding-top: 20px;
+        }
+        
+        .tt {
+            padding-top: 20px;
+        }
+        
+        .rr {
+            margin-top: 8%;
+            border-radius: 50%;
+        }
+        
+        .card-body h5 {
+            display: flex;
+            justify-content: center;
+            margin-top: -50px;
+        }
+        
+        .card1 {
+            text-align: center;
+            color: black;
+            padding: 18px 21px 18px 21px;
+            background-color: #f0a36d;
+            border-radius: 50%;
+        }
+        
+        .card3 {
+            background-color: #004736;
+        }
+        
+        .second2 {
+            font-size: 38px;
+            text-align: center;
+            font-style: bold;
+            font-weight: 600;
+            padding-top: 4%;
+        }
+        
+        .mobi {
+            margin-top: 10%;
+        }
+        
+        .head {
+            font-size: 28px;
+            font-weight: 600;
+            color: #025844;
+            font-family: 'Courier New', Courier, monospace;
+            margin-top: 30%;
+        }
+        
+        .p22 {
+            margin-top: 3%;
+            margin-bottom: 3%;
+            color: #171a19;
+        }
+        
+        .last {
+            color: #025844;
+            margin-top: 6%;
+            font-weight: 400;
+        }
+        
+        span {
+            content: "\2192";
+            font-weight: 500;
+        }
+        
+        .l1 {
+            font-size: 40px;
+            font-weight: 600;
+            color: white;
+            margin-left: 30%
+        }
+        
+        .l2 {
+            font-size: 40px;
+            font-weight: 600;
+            color: #f0a36d;
+            margin-right: 20%
+        }
+        
+        .span1 {
+            padding-top: 60px;
+        }
+        
+        .p00 {
+            text-align: center;
+            color: rgb(245, 239, 239);
+            font-size: 20px;
+            margin-top: 2%;
+        }
+        
+        .btn1 {
+            text-align: center;
+            margin-top: 3%;
+        }
+        
+        .btn-lg {
+            background-color: #025844;
+            ;
+            color: #f0a36d;
+        }
